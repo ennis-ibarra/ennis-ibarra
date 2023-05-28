@@ -1,4 +1,4 @@
-Hello Earth people 👋
+<h1>Hello Earth people 👋 </h1>
 
 <!--
 **ennis-ibarra/ennis-ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<b>Certifications</B>
+<h3><b>Badges</B></h3>
 
 <table>
 <tr>
@@ -36,3 +36,6 @@ Here are some ideas to get you started:
  <a href="https://www.credly.com/badges/c4ed398d-8bd4-4721-a1ce-21e92f119978/public_url"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NSS.png"></img></a> 
 </tr>
 </table>
+
+
+
