@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 <b>Certifications</B>
 
-![/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
+<a href="https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png"></img></a>
 
-![https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
-
-![https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
-
-<img 
-   src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png" 
-   alt="https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url"> SOMETHING </img>
+<a href="https://www.credly.com/badges/3cc95615-d4d4-4f7c-80b0-a0078ce7686f/public_url"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCP_MCI.png"></img></a>
