@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <br>
 
 <b>Certifications</B>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f6bc8ee-2039-4ad1-b0c6-850257053c33" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-![NCI-MCI](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
+![/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
 
-![NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
+![https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
 
-![NCI-MCI](https://github.com/ennis-ibarra/ennis-ibarra/blob/main/NCM_MCI.png)
+![https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
 
-![https://github.com/ennis-ibarra/ennis-ibarra/blob/main/NCM_MCI.png](https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url)
-
+<img 
+   src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/NCM_MCI.png" 
+   alt="https://www.credly.com/badges/1f6bc8ee-2039-4ad1-b0c6-850257053c33/public_url"> SOMETHING </img>
