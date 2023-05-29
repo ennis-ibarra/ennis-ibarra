@@ -1,4 +1,4 @@
-<h1>Hello Earth people 👋 </h1>
+<h2>Hello Earth people 👋 </h2>
 
 <!--
 **ennis-ibarra/ennis-ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h4><b>Contact Me:</B></h4>
+<table>
+<tr> 
+  <a href="https://t.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/telegram00.png"></img></a>
+</tr>
+</table>
+
+
 <br>
 
-<h3><b>Badges</B></h3>
+<h4><b>Badges</B></h4>
 
 <table>
 <tr>
