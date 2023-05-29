@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <tr> <a href="https://t.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/telegram01.png"></img></a> </tr>
 <tr> <a href="https://wa.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/whats01.png"></img></a> </tr>
 <tr> <a href="mailto:ennis.ibarra@gmail.com"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/mail04.png"></img></a> </tr>
-<tr> <a href="https://www.linkedin.com/in/ennis-ibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/linked00.png"></img></a> </tr>
+<tr> <a href="https://www.linkedin.com/in/ennis-ibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/linked01.png"></img></a> </tr>
 </table>
 
 <br>
