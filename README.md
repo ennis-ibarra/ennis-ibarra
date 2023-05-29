@@ -18,18 +18,10 @@ Here are some ideas to get you started:
 <h4><b>Contact Me:</B></h4>
 
 <table>
-<tr> 
-  <a href="https://t.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/telegram01.png"></img></a>
-</tr>
-<tr> 
-  <a href="https://wa.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/whats01.png"></img></a>
-</tr>
-<tr> 
-  <a href="mailto:ennis.ibarra@gmail.com"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/mail04.png"></img></a>
-</tr>
-<tr> 
-  <a href="skype:ennis_ibarra?chat"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/skype00.png"></img></a>
-</tr>
+<tr> <a href="skype:ennis_ibarra@hotmail.com?chat"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/skype00.png"></img></a> </tr>
+<tr> <a href="https://t.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/telegram01.png"></img></a> </tr>
+<tr> <a href="https://wa.me/ennisibarra"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/whats01.png"></img></a> </tr>
+<tr> <a href="mailto:ennis.ibarra@gmail.com"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/mail04.png"></img></a> </tr>
 </table>
 
 <br>
