@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <tr> 
   <a href="mailto:ennis.ibarra@gmail.com"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/mail04.png"></img></a>
 </tr>
+<tr> 
+  <a href="skype:ennis_ibarra?chat"><img src="https://raw.githubusercontent.com/ennis-ibarra/ennis-ibarra/main/skype00.png"></img></a>
+</tr>
 </table>
 
 <br>
